@@ -34,7 +34,3 @@ python src/evaluate.py
 streamlit run app.py
 ```
 
-## Resume Description
-
-**Fashion Greenwashing Detection, Python · NLP · Multi-label Classification**  
-Developed a multi-label NLP system to detect greenwashing narratives in fashion advertisements, using silver-labeling, TF-IDF features, and machine learning models to classify sustainability claims such as clean materials, ethical production, local sourcing, recycling, and community impact.
